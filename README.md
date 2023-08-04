@@ -62,4 +62,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-I like to travel and explore cultures different to my own, which reflects my love of diving into the unknown and learning new skills, information and mindsets. I also also learning to play Tennis which has required a growth mindset and ability to overcome challenges.
+I like to travel and explore cultures different to my own, which reflects my love of diving into the unknown and learning new skills, information and mindsets. I am also learning to play Tennis which has required a growth mindset and ability to overcome challenges.
