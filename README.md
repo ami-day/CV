@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi, I'm Ami :) Before Makers I was working on curating biological research data for a web-based database which is used by research scientists internationally. During this time, I worked with software engineers who were developing the interactive user interface and back-end of this website. Seeing the impact of the technology on the Life Sciences field inspired my interest in software engineering and in particular, full-stack web development. It is the impact that technology has on our everyday lives that excites me about coding, in addition to the multitude of opportunities to problem solve and learn continuously. I am really interested and excited to further explore the impact of software engineering in other fields.
+Hi, I'm Ami :) Before Makers I was working on curating biological research data for a large-scale, web-based database which is used by research scientists internationally. During this time, I worked with software engineers who were developing the interactive user interface and back-end of this website. Seeing the impact of the technology on the Life Sciences field inspired my interest in software engineering and in particular, full-stack web development. It is the impact that technology has on our everyday lives that excites me about coding, in addition to the multitude of opportunities to problem solve and learn continuously. I am really interested and excited to further explore the impact of software engineering in other fields.
 
 ## Projects
 
