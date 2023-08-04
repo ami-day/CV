@@ -28,7 +28,7 @@ _BioAnalyst_
 ## Skills
 
 #### Analytical Thinker and Problem-Solver
-
+I first developed my analytical skills while studying for my undergraduate degree in Biochemistry, for example, learning how new discoveries in the Life Sciences originated from generating and experimentally testing hyotheses. I further developed this skill while working as a BioAnalyst at DNA Electronics, a start-up company which is developing a Next-generation sequencing diagnostic device for Sepsis. As part of my role, I was resonsible for generating and analysing positive and negative test cases to assess experiment performance. For example, to test for the presence or absence of bacterial species DNA in a biological sample. In addition, I employed problem-solving skills to identify the cause of experimental output data which did not reflect expected test results. During my time at Makers I similarly have utilised analystical and problem-solving skills in a different context, writing computational test cases during test-driven development and solving programming errors.
 
 #### Fast learner
 
