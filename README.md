@@ -22,7 +22,7 @@ _Bioinformatician (Curation)_
 _BioAnalyst_
 
 - Worked on product research & development of a Next Generation Sequencing based medical device to diagnose Sepsis.
-- Designed Molecular Biology experiments for detection of bacterial DNA.
+- Designed Molecular Biology experiments for detection of bacterial species DNA.
 - Analysed performance of Molecular Biology experiments, improving on experiment designs iteratively in a collaborative team environment.
   
 ## Skills
