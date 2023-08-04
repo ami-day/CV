@@ -55,4 +55,4 @@ During my career I have worked on a variety of projects within the Life Sciences
 
 ## Hobbies
 
-I like to travel and explore cultures different to my own, which reflects my love of diving into the unknown and learning new skills, information and mindsets.
+I love to travel and explore cultures different to my own, which reflects my love of diving into the unknown and learning new skills, information and mindsets.
