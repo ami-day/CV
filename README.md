@@ -43,13 +43,15 @@ Throughout my academic education and career I have communicated scientific resea
 - Applied Test-Driven Development to solve coding challenges with robust and clean code, requiring analystical mindset and attention to detail.
 - Frequently worked on pair-programming with other Makers students, requiring good communication, teamwork and ability to give and recieve feedback.
 
-#### University of Cambridge (Oct 2013 to June 2014)
+### freeCodeCamp (online) (May 2023 - July 2023)
+- Responsive Web Design Certificate (CSS & HTML)
+- Front End Development Libraries Certificate (JavaScript & React.js)
 
+#### University of Cambridge (Oct 2013 to June 2014)
 - MPhil Computational Biology
 - Pass
 
 #### University of Manchester (Sept 2009 to July 2013)
-
 - BSc (Hons) Biochemistry
 - 1:1
 
