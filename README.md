@@ -1,6 +1,6 @@
-## Your Name
+## Introduction
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hi, I'm Ami :) Before Makers I was working on curating biological research data for a web-based database which is used by research scientists internationally. During this time, I worked with software engineers who were developing the interactive user interface and back-end of this website. Seeing the impact of the technology on the Life Sciences field inspired my interest in software engineering and in particular, full-stack web development. It is the impact that technology has on our everyday lives that excites me about coding, in addition to the multitude of opportunities to problem solve and learn continuously. I am really interested and excited to further explore the impact of coding and technology in other fields.
 
 ## Projects
 
@@ -11,13 +11,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**EMBL-EBI** (Jan 2020 to Dec 2023)  
+_Bioinformatician (Curation)_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**DNA Electronics** (start-date to end-date)  
+_BioAnalyst_
 
 - Any experience relevent to software development
 
