@@ -33,8 +33,10 @@ I first developed my analytical skills while studying for my undergraduate degre
 #### Fast Learner
 During my career I have worked on a variety of projects within the Life Sciences sector, from Cancer Research, Infectious Diseases Research and a project to map all the distinct cell types in the human body. In addition, during this time, I worked in a range of settings including Academia, Government and Industry. I have very much enjoyed this varied experience, which has required learning new topics and skills quickly, as well as an adaptive, flexible approach to working in different contexts and environments, including internationally. For example, during my time working at DNA Electronics, I learnt to work in a fast-changing, collaborative environment in which I was resonsible for communicating my work frequently in team meetings and worked with others to clarify next steps and goals. At EMBL-EBI, I learnt to work with software engineers in agile software development cycles, in which I was responsible for user testing new product features towards the end of biweekly sprints. I also learnt to collaboratively track my work using Github and project management software (Zenhub). At Makers, I have consolidated my experience using Github to work on code collaboratively during frequent pair-programming sessions.
 
-#### Good Cpmmunicator and Team Player
-
+#### Good Communicator and Team Player
+During my academic education and career I have communicated scientific research work in a multitude of written reports and presentations. This has required attention to detail but also an ability to interpret and translate small details into a "big picture" view.
+Example: Microbit workshop
+Example: EMBL-EBI, external researchers
 
 ## Education
 
