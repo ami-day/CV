@@ -14,13 +14,17 @@ Hi, I'm Ami :) Before Makers I was working on curating biological research data 
 **EMBL-EBI** (Jan 2020 to Dec 2023)  
 _Bioinformatician (Curation)_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Curated Life Sciences research data and submitted this data to a large, international database in monthly release cycles.
+- Developed python scripts to improve the automation of curation practises within the team.
+- Worked with external researchers to understand their requirements and to design curation appraoches which reflected their requirements and feedback.
 
-**DNA Electronics** (start-date to end-date)  
+**DNA Electronics** (Jan 2017 to Dec 2019)  
 _BioAnalyst_
 
-- Any experience relevent to software development
-
+- Worked on product research & development of a Next Generation Sequencing based medical device to diagnose Sepsis.
+- Designed Molecular Biology experiments for detection of bacterial DNA.
+- Analysed performance of Molecular Biology experiments, improving on experiment designs iteratively in a collaborative team environment.
+  
 ## Skills
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
