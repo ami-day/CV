@@ -28,38 +28,31 @@ _BioAnalyst_
 ## Skills
 
 #### Analytical Thinker and Problem-Solver
-EXAMPLE
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+
 
 #### Fast learner
-EXAMPLE
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+
 
 #### Agile and flexible team-player
-EXAMPLE
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2023 to Oct 2023)
+- Applied Object-Oriented Programming in Python and Javascript ?
+- Applied Test-Driven Development to solve coding challenges with robust and clean code, requiring analystical mindset and attention to detail.
+- Frequently worked on pair-programming with other Makers students, requiring good communication, teamwork and ability to give and recieve feedback.
 
-#### Your University / College (start_date to end_date)
+#### University of Cambridge (Oct 2013 to June 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MPhil Computational Biology
+- Pass
 
-#### Any other qualifications
+#### University of Manchester (Sept 2009 to July 2013)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BSc (Hons) Biochemistry
+- 1:1
 
 ## Hobbies
 
-I like to travel and explore cultures different to my own, which reflects my love of diving into the unknown and learning new skills, information and mindsets. I am also currently learning to play Tennis which has required a growth mindset and ability to overcome challenges.
+I like to travel and explore cultures different to my own, which reflects my love of diving into the unknown and learning new skills, information and mindsets.
