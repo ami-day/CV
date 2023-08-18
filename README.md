@@ -58,4 +58,4 @@ Throughout my academic education and career I have communicated scientific resea
 
 ## Hobbies
 
-I love to travel and explore cultures different to my own, which reflects my love of diving into the unknown and learning new skills, information and mindsets.
+I love to travel and explore cultures different to my own, which reflects my love of diving into the unknown and learning new skills, information and ways of doing things.
