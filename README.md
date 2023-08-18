@@ -42,6 +42,7 @@ Throughout my academic education and career I have communicated scientific resea
 - Applied Object-Oriented Programming in Python and Javascript ?
 - Applied Test-Driven Development to solve coding challenges with robust and clean code, requiring analystical mindset and attention to detail.
 - Frequently worked on pair-programming with other Makers students, requiring good communication, teamwork and ability to give and recieve feedback.
+- Integrated a SQL database in Python and used Flask, Pytest, HTML and Jinja templates to make dynamic webpages.
 
 #### freeCodeCamp (online) (May 2023 - July 2023)
 - Responsive Web Design Certificate (CSS & HTML)
