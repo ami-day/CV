@@ -4,10 +4,10 @@ Hi, I'm Ami :) Before Makers I was working on curating biological research data 
 
 ## Projects
 
-| Name                         | Description                                | Tech/tools                    |
-| ---------------------------- | ------------------------------------------ | ------------------------------|
-| **Final project**            | A webapp to do x.                          | React, etc.                   |
-| **Chitter Solo Project**     | A webapp to create users and post messages.| Python, SQL, Flask, HTML, CSS |
+| Name                         | Description                                      | Tech/tools                    |
+| ---------------------------- | ------------------------------------------------ | ------------------------------|
+| **Final project**            | A webapp to do x.                                | React, etc.                   |
+| **Chitter Solo Project**     | A social media webapp to post and view messages. | Python, SQL, Flask, HTML, CSS |
 
 ## Work Experience
 
